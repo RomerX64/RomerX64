@@ -5,7 +5,7 @@
 
 ## Mi Visión como Desarrollador
 
-  Soy un desarrollador web full stack con una perspectiva única que fusiona la precisión de la ingeniería química con la innovación tecnológica. Mi objetivo va más allá de crear soluciones técnicas: busco transformar desafíos complejos en herramientas intuitivas y escalables que generen un impacto real en la sociedad.
+Desarrollador web full stack con formación en ingeniería química, combino la precisión técnica con la innovación tecnológica. Mi misión profesional trasciende el desarrollo de soluciones: me dedico a convertir desafíos complejos en herramientas digitales intuitivas, escalables y con un impacto en la sociedad.
 
 ## Compromiso Profesional
 
