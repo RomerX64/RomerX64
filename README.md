@@ -17,7 +17,8 @@
   Cada proyecto es una oportunidad para combinar lo técnico con la creatividad, con el objetivo de generar soluciones que mejoren la eficiencia y la experiencia de los usuarios y colegas de desarrollo.
 
   </div>
-  <img src="https://github.com/RomerX64.png" alt="Tomás Romera" width="250" height="250" style="border-radius: 50%; margin-left: 20px;"/>
+   <!-- <img src="https://github.com/RomerX64.png" alt="Tomás Romera" width="250" height="250" style="border-radius: 50%; margin-left: 20px;"/> -->
+
 </div>
 
 ### 💻 Tecnologías que domino
@@ -86,12 +87,10 @@ Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacida
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=RomerX64&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomerX64&layout=compact" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomerX64" alt="Contribution Streak" />
 </div>
 
-<div style="margin-top: 0.7rem; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomerX64&layout=compact" alt="Top Languages">
-</div>
 
 ## My Filosofía a la hora de desarrollar
 
