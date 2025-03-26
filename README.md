@@ -5,16 +5,16 @@
 
 ## Mi Visión como Desarrollador
 
-Desarrollador web full stack con formación en ingeniería química, combino la precisión técnica con la innovación tecnológica. Mi misión profesional trasciende el desarrollo de soluciones: me dedico a convertir desafíos complejos en herramientas digitales intuitivas, escalables y con un impacto en la sociedad.
+Desarrollador web full stack en formación en ingeniería química, combino la precisión técnica con la innovación tecnológica. Busco trascender en el desarrollo de soluciones: me apasiona convertir desafíos complejos en soluciones simples, escalables e intuitivas para la sociedad.
 
 ## Compromiso Profesional
 
   Mi pasión se centra en:
-  - Desarrollar aplicaciones web que simplifiquen procesos complejos
-  - Mantener un aprendizaje continuo y adaptativo
+  - Desarrollar aplicaciones web que simplifiquen la vida de los usuarios
+  - Mantener un aprendizaje continuo y adaptable
   - Crear herramientas que transformen datos en insights significativos
 
-  Cada proyecto es una oportunidad para combinar lo técnico con la creatividad, con el objetivo de generar soluciones que mejoren la eficiencia y la experiencia de los usuarios y colegas de desarrollo.
+  Cada proyecto me es una oportunidad para combinar todo lo que se con la creatividad, con el objetivo de generar soluciones que mejoren la eficiencia y la experiencia de los usuarios y colegas de desarrollo.
 
   </div>
    <!-- <img src="https://github.com/RomerX64.png" alt="Tomás Romera" width="250" height="250" style="border-radius: 50%; margin-left: 20px;"/> -->
@@ -36,26 +36,36 @@ Desarrollador web full stack con formación en ingeniería química, combino la 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
+### 💼 Experiencia Profesional [LinkedIn](https://www.linkedin.com/in/tomas-romera-817a81271)
+
+Actualmente, estoy como desarrollador Full Stack en un proyecto SaaS para la administración de activos para empresas. He sido responsable tanto del desarrollo del servicio como de su página de presentación, aplicando todas las tecnologías que manejo.
+
+- **Diseño y Desarrollo:** He participado en la creación de soluciones escalables, garantizando un rendimiento óptimo en el procesamiento y visualización de grandes volúmenes de datos.
+- **Resolución de Funciones Complejas:** He implementado algoritmos y funciones avanzadas para automatizar procesos de búsqueda, mejorando la precisión y la velocidad en la gestión de activos.
+- **Integración Tecnológica:** He integrado diversas tecnologías y metodologías ágiles para optimizar tanto el frontend como el backend, asegurando una experiencia de usuario intuitiva y robusta.
+- **Enfoque en Datos:** El diseño de la aplicación se ha orientado a manejar eficazmente una gran cantidad de información, facilitando la toma de decisiones para nuestros clientes.
+- **Seguridad:** He implementado medidas de seguridad para proteger los datos sensibles, tanto de los usuarios como de los administradores de las empresas.
+
+Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacidad para enfrentar desafíos complejos en entornos exigentes, contribuyendo al crecimiento de la empresa.
+
+
 ### 🛠️ Habilidades Técnicas y Profesionales
 
 - **Desarrollo Web Full Stack:** Creación de aplicaciones web escalables y eficientes
-- **Ingeniería de Software:** Diseño de arquitecturas robustas y mantenibles
+- **UI/UX**
 - **Análisis de Datos:** Procesamiento y visualización de grandes volúmenes de información
 - **Metodologías Ágiles:** Experiencia en scrum y trabajo colaborativo
 - **Resolución de Problemas:** Enfoque analítico para abordar desafíos complejos
-- **Modelado y Simulación:** Aplicación de principios de ingeniería en desarrollo de software
 - **Integración de Sistemas:** Desarrollo de soluciones que conectan múltiples tecnologías
 - **Gestión de Proyectos:** Planificación y ejecución de proyectos tecnológicos
 
-### 🌱 Áreas de Desarrollo Profesional
+
+### 🌱 Áreas en mi Desarrollo Profesional
 
 - Optimización de rendimiento en aplicaciones web con grandes volúmenes de datos
 - Desarrollo de aplicaciones con inteligencia artificial
-- Integración de principios de ingeniería química en soluciones tecnológicas
-- Aprendizaje avanzado de JAVA
+- Aprendizaje de JAVA, PYTHON.
 - Técnicas de machine learning y análisis de datos
-- Desarrollo de herramientas para procesos industriales y científicos
-
 
 ### 🤝 Conéctate conmigo
 
@@ -71,17 +81,6 @@ Desarrollador web full stack con formación en ingeniería química, combino la 
   <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge" alt="English"/>
 </div>
 
-### 💼 Experiencia Profesional [LinkedIn](https://www.linkedin.com/in/tomas-romera-817a81271)
-
-Actualmente, estoy como desarrollador Full Stack en un proyecto SaaS para la administración de activos para empresas. He sido responsable tanto del desarrollo del servicio como de su página de presentación, aplicando todas las tecnologías que manejo.
-
-- **Diseño y Desarrollo:** He participado en la creación de soluciones escalables, garantizando un rendimiento óptimo en el procesamiento y visualización de grandes volúmenes de datos.
-- **Resolución de Funciones Complejas:** He implementado algoritmos y funciones avanzadas para automatizar procesos de búsqueda, mejorando la precisión y la velocidad en la gestión de activos.
-- **Integración Tecnológica:** He integrado diversas tecnologías y metodologías ágiles para optimizar tanto el frontend como el backend, asegurando una experiencia de usuario intuitiva y robusta.
-- **Enfoque en Datos:** El diseño de la aplicación se ha orientado a manejar eficazmente una gran cantidad de información, facilitando la toma de decisiones para nuestros clientes.
-- **Seguridad:** He implementado medidas de seguridad para proteger los datos sensibles, tanto de los usuarios como de los administradores de las empresas.
-
-Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacidad para enfrentar desafíos complejos en entornos exigentes, contribuyendo al crecimiento de la empresa.
 
 ### 📊 Mis estadísticas de GitHub
 
