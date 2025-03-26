@@ -51,6 +51,10 @@ Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacida
   Repositorios:
   -Landing-Page: [https://github.com/RomerX64/Landing-Page.git](https://github.com/RomerX64/Landing-Page)
   -Software: 🔐 Privado
+  
+  Repositorios:
+  - Landing-Page: [https://github.com/RomerX64/Landing-Page.git](https://github.com/RomerX64/Landing-Page)
+  - Software: 🔐 Privado
 
 ### 🛠️ Habilidades Técnicas y Profesionales
 
