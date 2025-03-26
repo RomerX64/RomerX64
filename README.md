@@ -49,10 +49,6 @@ Actualmente, estoy como desarrollador Full Stack en un proyecto SaaS para la adm
 Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacidad para enfrentar desafíos complejos en entornos exigentes, contribuyendo al crecimiento de la empresa.
 
   Repositorios:
-  -Landing-Page: [https://github.com/RomerX64/Landing-Page.git](https://github.com/RomerX64/Landing-Page)
-  -Software: 🔐 Privado
-  
-  Repositorios:
   - Landing-Page: [https://github.com/RomerX64/Landing-Page.git](https://github.com/RomerX64/Landing-Page)
   - Software: 🔐 Privado
 
