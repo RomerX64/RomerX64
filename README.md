@@ -1,20 +1,17 @@
-# 👋 Hola, soy Romera, Tomás Mauricio un Full Stack Web Developer
+# 👋 Hola, soy Tomás Romera -- Full Stack Web Developer
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="width: 70%;">
 
-## Mi Visión como Desarrollador
-
-Desarrollador web full stack en formación en ingeniería química, combino la precisión técnica con la innovación tecnológica. Busco trascender en el desarrollo de soluciones: me apasiona convertir desafíos complejos en soluciones simples, escalables e intuitivas para la sociedad.
+Desarrollador web full stack en formación en ingeniería química. Trabajo en simplificar problemas complejos para desarrollar soluciones prácticas, escalables e intuitivas. Siempre en búsqueda de nuevos aprendizajes y mejoras en cada proyecto.
 
 ## Compromiso Profesional
 
-  Mi pasión se centra en:
   - Desarrollar aplicaciones web que simplifiquen la vida de los usuarios
   - Mantener un aprendizaje continuo y adaptable
   - Crear herramientas que transformen datos en insights significativos
 
-  Cada proyecto me es una oportunidad para combinar todo lo que se con la creatividad, con el objetivo de generar soluciones que mejoren la eficiencia y la experiencia de los usuarios y colegas de desarrollo.
+  Cada proyecto me es una oportunidad para combinar todo lo que se con la creatividad, con el objetivo de generar soluciones que mejoren la eficiencia y la experiencia  tanto de los usuarios como a los colegas de desarrollo.
 
   </div>
    <!-- <img src="https://github.com/RomerX64.png" alt="Tomás Romera" width="250" height="250" style="border-radius: 50%; margin-left: 20px;"/> -->
@@ -57,9 +54,8 @@ Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacida
 - **Desarrollo Web Full Stack:** Creación de aplicaciones web escalables y eficientes
 - **UI/UX**
 - **Análisis de Datos:** Procesamiento y visualización de grandes volúmenes de información
-- **Metodologías Ágiles:** Experiencia en scrum y trabajo colaborativo
-- **Resolución de Problemas:** Enfoque analítico para abordar desafíos complejos
-- **Integración de Sistemas:** Desarrollo de soluciones que conectan múltiples tecnologías
+- **Metodologías Ágiles:** Experiencia en trabajo colaborativo
+- **Resolución de Problemas:** Enfoque analítico al abordar desafíos complejos
 - **Gestión de Proyectos:** Planificación y ejecución de proyectos tecnológicos
 
 
