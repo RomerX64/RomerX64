@@ -9,8 +9,6 @@ Desarrollador web full stack con formación en ingeniería química. Me especial
    <!-- <img src="https://github.com/RomerX64.png" alt="Tomás Romera" width="250" height="250" style="border-radius: 50%; margin-left: 20px;"/> -->
 </div>
 
-## 🚀 Proyectos Destacados
-
 ## 💻 Tecnologías que domino
 
 <div>
