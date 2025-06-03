@@ -26,7 +26,7 @@ Desarrollador web full stack con formación en ingeniería química. Me especial
 
 ## 💼 Experiencia Profesional | [LinkedIn](https://www.linkedin.com/in/tomas-romera-817a81271)
 
-### Flux1a.com.ar | [Visitar](https://flux1a.com.ar)
+### Flux1a | [Visitar](https://flux1a.com.ar)
 - Rediseñé el dashboard principal de la empresa.
 - Participo en el área de servicio al cliente, específicamente en la creación de agentes de inteligencia artificial con n8n.
 
