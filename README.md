@@ -3,27 +3,13 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="width: 70%;">
 
-Desarrollador web full stack con formación en ingeniería química. Me especializo en simplificar problemas complejos para desarrollar soluciones prácticas, escalables e intuitivas. Siempre en búsqueda de nuevos aprendizajes y mejoras en cada proyecto.
-
-## Compromiso Profesional
-
-- Desarrollar aplicaciones web que simplifiquen la vida de los usuarios
-- Mantener un aprendizaje continuo y adaptable
-- Crear herramientas que transformen datos en insights significativos
-
-Cada proyecto representa una oportunidad para combinar mis conocimientos técnicos con la creatividad, con el objetivo de generar soluciones que mejoren la eficiencia y la experiencia tanto de los usuarios como de los equipos de desarrollo.
+Desarrollador web full stack con formación en ingeniería química. Me especializo en simplificar problemas complejos para desarrollar soluciones prácticas, escalables e intuitivas. Busco generar soluciones que mejoren la eficiencia y la experiencia del usuario.
 
   </div>
    <!-- <img src="https://github.com/RomerX64.png" alt="Tomás Romera" width="250" height="250" style="border-radius: 50%; margin-left: 20px;"/> -->
 </div>
 
 ## 🚀 Proyectos Destacados
-
-### [Assetly](https://assetly.com.ar/) - SaaS para administración de activos empresariales
-- **Landing Page:** [https://assetly.com.ar/](https://assetly.com.ar/)
-- **Dashboard:** [https://dashboard.assetly.com.ar/](https://dashboard.assetly.com.ar/)
-- **Repositorio Landing:** [GitHub - Landing-Page](https://github.com/RomerX64/Landing-Page)
-- **Repositorio Software:** 🔐 Privado
 
 ## 💻 Tecnologías que domino
 
@@ -42,10 +28,14 @@ Cada proyecto representa una oportunidad para combinar mis conocimientos técnic
 
 ## 💼 Experiencia Profesional | [LinkedIn](https://www.linkedin.com/in/tomas-romera-817a81271)
 
-Actualmente, trabajo como desarrollador Full Stack en un proyecto SaaS para la administración de activos empresariales. He sido responsable tanto del desarrollo del servicio como de su página de presentación, aplicando todas las tecnologías de mi stack.
+### Flux1a.com.ar | [Visitar](https://flux1a.com.ar)
+- Rediseñé el dashboard principal de la empresa.
+- Participo en el área de servicio al cliente, específicamente en la creación de agentes de inteligencia artificial con n8n.
 
-### Logros destacados:
+### Assetly - SaaS para administración de activos empresariales | [Landing Page](https://assetly.com.ar/) | [Dashboard](https://dashboard.assetly.com.ar/)
+Como desarrollador Full Stack en este proyecto SaaS, fui responsable tanto del desarrollo del servicio como de su página de presentación, aplicando todas las tecnologías de mi stack.
 
+#### Logros destacados en Assetly:
 - **Diseño y Desarrollo:** Creación de soluciones escalables, garantizando un rendimiento óptimo en el procesamiento y visualización de grandes volúmenes de datos.
 - **Resolución de Funciones Complejas:** Implementación de algoritmos y funciones avanzadas para automatizar procesos de búsqueda, mejorando la precisión y velocidad en la gestión de activos.
 - **Integración Tecnológica:** Integración de diversas tecnologías y metodologías ágiles para optimizar tanto el frontend como el backend, asegurando una experiencia de usuario intuitiva y robusta.
