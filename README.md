@@ -18,6 +18,7 @@ Desarrollador web full stack con formación en ingeniería química. Me especial
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -28,7 +29,10 @@ Desarrollador web full stack con formación en ingeniería química. Me especial
 
 ### Flux1a | [Visitar](https://flux1a.com.ar)
 - Rediseñé el dashboard principal de la empresa.
-- Participo en el área de servicio al cliente, específicamente en la creación de agentes de inteligencia artificial con n8n.
+- Participo en el área de servicio al cliente, donde he desarrollado múltiples agentes inteligentes con automatizaciones en n8n, entre los que se incluyen:
+  - **Gestor documental:** Para cualquier tipo de factura.
+  - **Gestión de información:** Sobre datos de la gobernación de Colombia.
+  - **Asistente de ventas:** Automatizado para mejorar la eficiencia.
 
 ### Assetly - SaaS para administración de activos empresariales | [Landing Page](https://assetly.com.ar/) | [Dashboard](https://dashboard.assetly.com.ar/)
 Como desarrollador Full Stack en este proyecto SaaS, fui responsable tanto del desarrollo del servicio como de su página de presentación, aplicando todas las tecnologías de mi stack.
@@ -50,6 +54,7 @@ Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacida
 - **Metodologías Ágiles:** Experiencia en trabajo colaborativo
 - **Resolución de Problemas:** Enfoque analítico al abordar desafíos complejos
 - **Gestión de Proyectos:** Planificación y ejecución de proyectos tecnológicos
+- **Desarrollo de Agentes Inteligentes:** Creación de soluciones automatizadas y personalizadas
 
 ## 🌱 Áreas en Desarrollo Profesional
 
