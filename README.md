@@ -1,16 +1,27 @@
-# 👋 Hola, soy Tomás Romera — Full Stack Web Developer
+# 👋 Hola, soy Tomás Mauricio Romera — Full Stack Developer & AI Agents Specialist
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="width: 70%;">
 
-Desarrollador web full stack con formación en ingeniería química. Me especializo en simplificar problemas complejos para desarrollar soluciones prácticas, escalables e intuitivas. Busco generar soluciones que mejoren la eficiencia y la experiencia del usuario.
+Desarrollador Full Stack con experiencia en desarrollo web end-to-end, automatización de procesos y agentes inteligentes para soluciones empresariales escalables. Con formación en ingeniería química, me especializo en simplificar problemas complejos para desarrollar soluciones prácticas, escalables e intuitivas.
+
+**📍 Córdoba, Argentina** | **📧 tomas.romera.developer@gmail.com**
 
   </div>
-   <!-- <img src="https://github.com/RomerX64.png" alt="Tomás Romera" width="250" height="250" style="border-radius: 50%; margin-left: 20px;"/> -->
 </div>
 
-## 💻 Tecnologías que domino
+## 🤖 Especialidad en Agentes Inteligentes
 
+Me especializo en el desarrollo completo de agentes inteligentes para múltiples industrias:
+- **Asistentes de Atención al Cliente** automatizados
+- **Analistas de Documentos Empresariales** con IA
+- **Gestores de Información** para entidades gubernamentales
+- **Asistentes de Ventas** inteligentes
+- **Automatización de Procesos** con N8N
+
+## 💻 Stack Tecnológico
+
+### Frontend & Backend
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -18,76 +29,154 @@ Desarrollador web full stack con formación en ingeniería química. Me especial
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
-## 💼 Experiencia Profesional | [LinkedIn](https://www.linkedin.com/in/tomas-romera-817a81271)
+### Automatización & Agentes IA
+<div>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
 
-### Flux1a | [Visitar](https://flux1a.com.ar)
-- Rediseñé el dashboard principal de la empresa.
-- Participo en el área de servicio al cliente, donde he desarrollado múltiples agentes inteligentes con automatizaciones en n8n, entre los que se incluyen:
-  - **Gestor documental:** Para cualquier tipo de factura.
-  - **Gestión de información:** Sobre datos de la gobernación de Colombia.
-  - **Asistente de ventas:** Automatizado para mejorar la eficiencia.
+### Base de Datos & DevOps
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
 
-### Assetly - SaaS para administración de activos empresariales | [Landing Page](https://assetly.com.ar/) | [Dashboard](https://dashboard.assetly.com.ar/)
-Como desarrollador Full Stack en este proyecto SaaS, fui responsable tanto del desarrollo del servicio como de su página de presentación, aplicando todas las tecnologías de mi stack.
+## 💼 Experiencia Profesional Reciente
 
-#### Logros destacados en Assetly:
-- **Diseño y Desarrollo:** Creación de soluciones escalables, garantizando un rendimiento óptimo en el procesamiento y visualización de grandes volúmenes de datos.
-- **Resolución de Funciones Complejas:** Implementación de algoritmos y funciones avanzadas para automatizar procesos de búsqueda, mejorando la precisión y velocidad en la gestión de activos.
-- **Integración Tecnológica:** Integración de diversas tecnologías y metodologías ágiles para optimizar tanto el frontend como el backend, asegurando una experiencia de usuario intuitiva y robusta.
-- **Enfoque en Datos:** Diseño orientado a manejar eficazmente grandes cantidades de información, facilitando la toma de decisiones para nuestros clientes.
-- **Seguridad:** Implementación de medidas de protección para datos sensibles, tanto de usuarios como de administradores empresariales.
+### 🚀 Flux1a — Customer Success Engineer & Cofundador
+**May 2025 - Oct 2025** | [Visitar sitio](https://flux1a.com.ar)
 
-Esta experiencia me ha permitido aplicar mis habilidades técnicas y mi capacidad para enfrentar desafíos complejos en entornos exigentes, contribuyendo al crecimiento de la empresa.
+**Customer Success Engineer:**
+- Desarrollé e implementé agentes inteligentes a medida para diversos sectores
+- Esquematicé proyectos y modelé arquitectura de datos y workflows de agentes
+- Diseñé y desarrollé páginas web end-to-end integradas con los agentes
+- Actué como punto de contacto técnico: levantamiento de requerimientos, priorización, entrega y soporte post-lanzamiento
 
-## 🛠️ Habilidades Técnicas y Profesionales
+**Cofundador & Full Stack Developer:**
+- Desarrollo, deploy y mantenimiento completo del servicio web para generación de agentes inteligentes
+- Rediseñé el dashboard principal de la empresa
+- Lideré el desarrollo de múltiples soluciones automatizadas
 
-- **Desarrollo Web Full Stack:** Creación de aplicaciones web escalables y eficientes
-- **UI/UX:** Diseño centrado en el usuario y experiencias intuitivas
-- **Análisis de Datos:** Procesamiento y visualización de grandes volúmenes de información
-- **Metodologías Ágiles:** Experiencia en trabajo colaborativo
-- **Resolución de Problemas:** Enfoque analítico al abordar desafíos complejos
-- **Gestión de Proyectos:** Planificación y ejecución de proyectos tecnológicos
-- **Desarrollo de Agentes Inteligentes:** Creación de soluciones automatizadas y personalizadas
+### 💼 Assetly — Cofundador & Full Stack Developer
+**Jun 2024 - Mar 2025** | [Landing](https://assetly.com.ar/) | [Dashboard](https://dashboard.assetly.com.ar/)
 
-## 🌱 Áreas en Desarrollo Profesional
+SaaS para administración de activos empresariales donde desarrollé tanto el servicio como su página de presentación:
 
-- Optimización de rendimiento en aplicaciones web con grandes volúmenes de datos
-- Desarrollo de aplicaciones con inteligencia artificial
-- Aprendizaje de JAVA y PYTHON
-- Técnicas de machine learning y análisis de datos
+**Logros destacados:**
+- **Arquitectura Escalable:** Diseño de soluciones que garantizan rendimiento óptimo con grandes volúmenes de datos
+- **Algoritmos Avanzados:** Implementación de funciones complejas para automatizar procesos de búsqueda
+- **Integración Full Stack:** Desarrollo completo desde frontend hasta backend con metodologías ágiles
+- **Seguridad Empresarial:** Implementación de medidas de protección para datos sensibles
+- **Análisis de Datos:** Procesamiento y visualización para toma de decisiones estratégicas
 
-## 🌐 Lenguajes
+### 💱 Binance — Customer Support Specialist
+**Jul 2023 - May 2024**
+- Atención al cliente especializada en comercio P2P
+- Resolución de incidencias técnicas y financieras
+
+## 🎓 Educación
+
+- **Ingeniería Química** — UTN FRC, Córdoba (2024 - 2029)
+- **Técnico Minero** — IPET 265, Córdoba (2016 - 2023)
+
+## 🛠️ Habilidades Profesionales
+
+### Desarrollo & Arquitectura
+- **Desarrollo Web Full Stack** con arquitecturas escalables
+- **Modelado de Datos** para sistemas empresariales
+- **Deploy y DevOps** para entornos de producción
+- **Big Data** y análisis de información estratégica
+
+### Especialización en IA
+- **Desarrollo de Agentes Inteligentes** personalizados
+- **Automatización de Procesos** con N8N
+- **Integración de APIs** y servicios de IA
+- **Análisis de Documentos** con procesamiento inteligente
+
+### Gestión & Liderazgo
+- **Customer Success** y relación con clientes
+- **Levantamiento de Requerimientos** técnicos
+- **Gestión de Proyectos** tecnológicos
+- **Metodologías Ágiles** en equipos multidisciplinarios
+
+## 🌱 En Constante Aprendizaje
+
+Actualmente expandiendo mis conocimientos en:
+- **LangChain** para desarrollo avanzado de agentes IA
+- **Python** para machine learning y análisis de datos
+- **Java** para desarrollo empresarial
+- **Machine Learning** y técnicas de IA avanzadas
+- **Optimización de rendimiento** en aplicaciones con big data
+
+## 🏆 Reconocimientos Destacados
+
+### 🤖 Agentes Inteligentes
+Desarrollo completo de múltiples soluciones en distintos sectores:
+- Asistentes de atención al cliente automatizados
+- Analistas de documentos empresariales con IA
+- Gestor de información para la Gobernación de Colombia
+- Sistemas de automatización personalizados
+
+### 🌐 Desarrollo Full Stack
+- Diseño, implementación y despliegue de servicios web escalables
+- Integración completa de frontend, backend y bases de datos
+- Arquitecturas para entornos empresariales exigentes
+
+### 📊 Análisis de Datos
+- Diseño y análisis de datos para gráficas y reportes estratégicos
+- Optimización de compras y ventas con soluciones basadas en IA
+- Procesamiento de grandes volúmenes de información
+
+## 🌐 Idiomas
 
 <div>
-  <img src="https://img.shields.io/badge/Spanish-Native-green?style=for-the-badge" alt="Spanish"/>
-  <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Español-Nativo-green?style=for-the-badge" alt="Spanish"/>
+  <img src="https://img.shields.io/badge/Inglés-B2_Intermedio-blue?style=for-the-badge" alt="English"/>
 </div>
 
 ## 📊 Estadísticas de GitHub
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=RomerX64&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomerX64&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomerX64" alt="Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomerX64&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomerX64&theme=radical" alt="Contribution Streak" />
 </div>
 
-## Mi Filosofía de Desarrollo
+## 🎯 Mi Filosofía de Desarrollo
 
-La programación para mí es más que código: es un medio para abstraer y resolver problemas del mundo real. Busco abordar los desafíos tecnológicos con un enfoque sistemático y orientado a resultados. No me conformo con resolver problemas, sino que busco crear soluciones comercialmente viables e intuitivas para las necesidades actuales.
+> *"La programación es más que código: es un medio para abstraer y resolver problemas del mundo real."*
 
-## 🤝 Contacto
+Mi enfoque se centra en:
+- **Soluciones Comercialmente Viables:** No solo resuelvo problemas, creo valor empresarial
+- **Enfoque Sistemático:** Metodología orientada a resultados medibles
+- **Innovación Práctica:** Implementación de tecnologías emergentes con propósito
+- **Experiencia del Usuario:** Interfaces intuitivas que simplifican la complejidad
+- **Escalabilidad:** Arquitecturas preparadas para el crecimiento
 
-- 📧 Email: tomiromera2903@gmail.com
-- 🔗 LinkedIn: [Tomás Romera](https://www.linkedin.com/in/tomas-romera-817a81271)
-- 🌐 GitHub: [RomerX64](https://github.com/RomerX64)
+## 🤝 Conectemos
+
+<div>
+  <a href="mailto:tomas.romera.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tomas-r-817a81271">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/RomerX64">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="tel:+5435475332645">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</div>
 
 ---
 
-### 👋 ¡Gracias por visitar mi perfil!
+### 🚀 ¿Buscas desarrollar agentes inteligentes o soluciones web escalables?
+**¡Hablemos sobre cómo puedo ayudarte a transformar tus ideas en realidad!**
