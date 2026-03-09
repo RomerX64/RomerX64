@@ -1,13 +1,19 @@
-# Tomás Romera
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:818cf8&height=200&section=header&text=Tom%C3%A1s%20Romera&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%26%20AI%20Agents%20Specialist&descSize=18&descAlignY=68&descColor=c7d2fe" />
+</div>
 
-### Full Stack Developer & AI Agents Specialist
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%26+AI+Specialist+%F0%9F%9A%80;Building+Intelligent+Agents+%F0%9F%A4%96;Automating+Business+Processes+%E2%9A%A1;Creating+Scalable+Solutions+%F0%9F%8C%90;Open+to+New+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
+
+<br/>
 
 > *"No automatizo tareas; libero potencial humano para que se enfoque en lo que realmente importa: la estrategia, la creatividad y el crecimiento."*
 
 Desarrollador especializado en **agentes inteligentes** y **soluciones empresariales escalables** mediante arquitecturas modernas. Experiencia comprobada optimizando procesos críticos de negocio con **resultados medibles**.
 
 <div align="center">
-  
+
 <a href="https://tomasromeradeveloper.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
@@ -112,6 +118,18 @@ Co-fundé y desarrollé plataforma SaaS para gestión integral de activos empres
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomerX64&theme=tokyonight" alt="Contribution Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RomerX64&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RomerX64/RomerX64/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🏆 Expertise Técnica
@@ -205,4 +223,8 @@ const miEnfoque = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RomerX64&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:818cf8&height=120&section=footer" />
 </div>
