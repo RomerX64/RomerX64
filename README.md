@@ -72,11 +72,6 @@ Definí modelo de negocio, arquitectura completa y desarrollé el portal de extr
 ## Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RomerX64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomerX64&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomerX64&theme=tokyonight" alt="Contribution Streak" />
 </div>
 
